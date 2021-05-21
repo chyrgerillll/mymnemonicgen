@@ -1,0 +1,2 @@
+# mymnemonicgen
+Mnemonic phrases generator
